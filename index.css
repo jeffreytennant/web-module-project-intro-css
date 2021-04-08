@@ -107,20 +107,20 @@ nav a{
 .statement{
 background-color:#DDB9A3;
 color:white;
-margin:10%;
+margin:-1% 10%;
 padding:1%;
 text-align:center;
 }
 /* images and information */
 .fire{
-margin: 0 30%;
+margin: -1% 40%;
 text-align:center;
-padding:14;
+
 }
 .reservation{
-    margin:0 30%;
+    margin:-1% 40%;
     text-align:center;
-    padding:4%
+    
 }
 
 .bottom-image{
